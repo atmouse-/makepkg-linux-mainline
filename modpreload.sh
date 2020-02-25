@@ -113,3 +113,6 @@ modprobe raid5
 
 # 2020-02-05
 modprobe nfs
+
+# 2020-02-25
+modprobe raid10

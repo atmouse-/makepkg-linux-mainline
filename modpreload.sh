@@ -116,3 +116,6 @@ modprobe nfs
 
 # 2020-02-25
 modprobe raid10
+
+# 2020-02-27
+modprobe wireguard

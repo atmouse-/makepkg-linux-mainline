@@ -119,3 +119,7 @@ modprobe raid10
 
 # 2020-02-27
 modprobe wireguard
+
+# 2020-03-20
+modprobe dm_mod
+modprobe dm_crypt

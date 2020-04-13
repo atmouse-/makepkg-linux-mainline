@@ -123,3 +123,7 @@ modprobe wireguard
 # 2020-03-20
 modprobe dm_mod
 modprobe dm_crypt
+
+# 2020-04-13
+modprobe dm_cache
+modprobe dm_cache_smq
